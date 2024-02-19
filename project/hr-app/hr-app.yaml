@@ -1,0 +1,5 @@
+---
+name : template-file
+metadata:
+  tags:
+    app: hr-app
